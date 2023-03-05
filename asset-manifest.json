@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tsp/static/css/main.cb0ccb36.css",
+    "main.js": "/tsp/static/js/main.eb5c7b04.js",
+    "static/js/787.41ebb234.chunk.js": "/tsp/static/js/787.41ebb234.chunk.js",
+    "static/media/bg.gif": "/tsp/static/media/bg.8aa32bb59ee5ec8d1e24.gif",
+    "static/media/img2.jpg": "/tsp/static/media/img2.ea2a69060d72578dc1bd.jpg",
+    "static/media/pic1.png": "/tsp/static/media/pic1.9076d0bfcd71160b0ec2.png",
+    "static/media/img3.jpg": "/tsp/static/media/img3.9975a67c450d2f0c68f5.jpg",
+    "static/media/quiz-img.png": "/tsp/static/media/quiz-img.91444af9a70ef8213014.png",
+    "static/media/chena.jpg": "/tsp/static/media/chena.648e915e15a73c83aa3c.jpg",
+    "static/media/Phase1.png": "/tsp/static/media/Phase1.d3d38c0dc75b44d3ca9e.png",
+    "static/media/img1.jpg": "/tsp/static/media/img1.6fcec99a8225a2ff2f5f.jpg",
+    "static/media/harsh.jpeg": "/tsp/static/media/harsh.3b92c9e968ca6947e542.jpeg",
+    "static/media/img4.jpg": "/tsp/static/media/img4.335b5eded635394c173c.jpg",
+    "static/media/jsc.png": "/tsp/static/media/jsc.800b220968ac58c296fa.png",
+    "static/media/TSPlogo.png": "/tsp/static/media/TSPlogo.4aaba30261e6a1f49bd1.png",
+    "index.html": "/tsp/index.html",
+    "main.cb0ccb36.css.map": "/tsp/static/css/main.cb0ccb36.css.map",
+    "main.eb5c7b04.js.map": "/tsp/static/js/main.eb5c7b04.js.map",
+    "787.41ebb234.chunk.js.map": "/tsp/static/js/787.41ebb234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb0ccb36.css",
+    "static/js/main.eb5c7b04.js"
+  ]
+}
