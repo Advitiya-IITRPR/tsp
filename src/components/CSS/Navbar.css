@@ -1,0 +1,14 @@
+.hover-btn{
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.hover-btn:hover{
+   border-radius: 5px;
+   scale: 1.1;
+}
+
+.text-1{
+  text-decoration: none;
+  color: white;
+}

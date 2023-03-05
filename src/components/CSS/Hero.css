@@ -1,0 +1,36 @@
+.text-css1 {
+    font-size: 2rem;
+}
+
+.text-css2 {
+    font-size: 100px;
+    border-bottom: 5px solid rgb(94, 94, 250);
+    width: min-content;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.image{
+    background-image: url('../../Assets/bg.gif');
+}
+
+@media screen and (max-width: 2000px) {
+    .text-css1 {
+        font-size: 100px;
+    }
+
+    .text-css2 {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 715px) {
+    .text-css1 {
+        font-size: 80px;
+    }
+
+    .text-css2 {
+        font-size: 40px;
+    }
+}
