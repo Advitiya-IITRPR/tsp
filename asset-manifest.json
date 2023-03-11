@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tsp/static/css/main.18f9cbc8.css",
-    "main.js": "/tsp/static/js/main.2913bbcc.js",
+    "main.css": "/tsp/static/css/main.34326b6e.css",
+    "main.js": "/tsp/static/js/main.8f1a7ccd.js",
     "static/js/787.41ebb234.chunk.js": "/tsp/static/js/787.41ebb234.chunk.js",
     "static/media/bg.gif": "/tsp/static/media/bg.8aa32bb59ee5ec8d1e24.gif",
     "static/media/img2.jpg": "/tsp/static/media/img2.ea2a69060d72578dc1bd.jpg",
@@ -16,12 +16,12 @@
     "static/media/jsc.png": "/tsp/static/media/jsc.800b220968ac58c296fa.png",
     "static/media/TSPlogo.png": "/tsp/static/media/TSPlogo.4aaba30261e6a1f49bd1.png",
     "index.html": "/tsp/index.html",
-    "main.18f9cbc8.css.map": "/tsp/static/css/main.18f9cbc8.css.map",
-    "main.2913bbcc.js.map": "/tsp/static/js/main.2913bbcc.js.map",
+    "main.34326b6e.css.map": "/tsp/static/css/main.34326b6e.css.map",
+    "main.8f1a7ccd.js.map": "/tsp/static/js/main.8f1a7ccd.js.map",
     "787.41ebb234.chunk.js.map": "/tsp/static/js/787.41ebb234.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f9cbc8.css",
-    "static/js/main.2913bbcc.js"
+    "static/css/main.34326b6e.css",
+    "static/js/main.8f1a7ccd.js"
   ]
 }
