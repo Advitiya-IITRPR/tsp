@@ -25,8 +25,8 @@ const About = () => {
                                 </div>
                                 <div className="flex-grow">
                                     <h2 className="text-white text-4xl title-font font-bold mb-3">What is TSP?</h2>
-                                    <p className="leading-relaxed text-bold text-white">Zeitgeist’23 presents the second edition of TSP,i.e, Techno School Program, a school outreach program for 8th to 12th-grade students. It consists of an annual competition wherein students compete in two phases of the Open Olympiad and flex their skills through the Junior Scientist Competition. Phase 1 of the Olympiad will be conducted in schools if the school is participating and if students are directly registering then it will be conducted online on 14th march from 6.00 pm to 7.30 pm. Phase 2 will be conducted during Zeitgeist’23 on 23rd March.</p>
-                                    <a className="mt-3 text-indigo-400 inline-flex items-center" href='https://drive.google.com/file/d/1ChzfZk6PS1wjdUZ8ILqxC5ac04ttUdyN/view'>Learn More
+                                    <p className="leading-relaxed text-xl text-bold text-white">Zeitgeist’23 presents the second edition of TSP,i.e, Techno School Program, a school outreach program for 8th to 12th-grade students. It consists of an annual competition wherein students compete in two phases of the Open Olympiad and flex their skills through the Junior Scientist Competition. Phase 1 of the Olympiad will be conducted in schools if the school is participating and if students are directly registering then it will be conducted online on 16th march from 6.00 pm to 7.30 pm. Phase 2 will be conducted during Zeitgeist’23 on 23rd March.</p>
+                                    <a className="mt-3 text-yellow-200 inline-flex items-center" href='https://drive.google.com/file/d/1PU0nopfQdldjRtk6mHtvBlR-ezicE7zY/view'>Learn More
                                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                             <path d="M5 12h14M12 5l7 7-7 7"></path>
                                         </svg>
@@ -44,7 +44,7 @@ const About = () => {
                                 </div>
                                 <div className="flex-grow">
                                     <h2 className="text-white text-4xl title-font font-bold mb-3">Why TSP?</h2>
-                                    <p className="leading-relaxed text-bold text-white">TSP aims to bring together the best young minds from all over the country under one roof and to expose the students to the technical culture of IIT Ropar. The main objective of which is developing and nurturing younger minds of the country at the grassroots level. It provides a platform for school kids to learn core experience and knowledge, exercise coordination abilities, to think outside the box while proposing solutions.</p>
+                                    <p className="leading-relaxed text-xl text-bold text-white">TSP aims to bring together the best young minds from all over the country under one roof and to expose the students to the technical culture of IIT Ropar. The main objective of which is developing and nurturing younger minds of the country at the grassroots level. It provides a platform for school kids to learn core experience and knowledge, exercise coordination abilities, to think outside the box while proposing solutions.</p>
                                 </div>
                             </div>
                         </div>
